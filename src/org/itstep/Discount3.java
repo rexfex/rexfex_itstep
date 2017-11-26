@@ -10,7 +10,7 @@ public class Discount3 {
 		ArrayList<Goods> List = new ArrayList<Goods>();
 
 		Goods g1 = new Goods(222, 200);
-		Goods g2 = new Goods(222, 200);
+		Goods g2 = new Goods(333, 300);
 		Goods g3 = new Goods(444, 400);
 		Goods g4 = new Goods(333, 300);
 		Goods g5 = new Goods(444, 400);
