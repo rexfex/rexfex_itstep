@@ -1,6 +1,7 @@
 package org.itstep;
 
 public class Goods {
+	public static Object getCode;
 	private int code;
 	private int price;
 
